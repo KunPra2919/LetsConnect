@@ -1,0 +1,28 @@
+C:\Users\Kundan Prasad\source\repos\LetsConnect\LetsConnect.Data\bin\Debug\netcoreapp2.0\LetsConnect.Data.deps.json
+C:\Users\Kundan Prasad\source\repos\LetsConnect\LetsConnect.Data\bin\Debug\netcoreapp2.0\LetsConnect.Data.runtimeconfig.json
+C:\Users\Kundan Prasad\source\repos\LetsConnect\LetsConnect.Data\bin\Debug\netcoreapp2.0\LetsConnect.Data.runtimeconfig.dev.json
+C:\Users\Kundan Prasad\source\repos\LetsConnect\LetsConnect.Data\bin\Debug\netcoreapp2.0\LetsConnect.Data.dll
+C:\Users\Kundan Prasad\source\repos\LetsConnect\LetsConnect.Data\bin\Debug\netcoreapp2.0\LetsConnect.Entities.dll
+C:\Users\Kundan Prasad\source\repos\LetsConnect\LetsConnect.Data\bin\Debug\netcoreapp2.0\LetsConnect.Entities.pdb
+C:\Users\Kundan Prasad\source\repos\LetsConnect\LetsConnect.Data\obj\Debug\netcoreapp2.0\LetsConnect.Data.csprojResolveAssemblyReference.cache
+C:\Users\Kundan Prasad\source\repos\LetsConnect\LetsConnect.Data\obj\Debug\netcoreapp2.0\LetsConnect.Data.csproj.CoreCompileInputs.cache
+C:\Users\Kundan Prasad\source\repos\LetsConnect\LetsConnect.Data\obj\Debug\netcoreapp2.0\LetsConnect.Data.AssemblyInfoInputs.cache
+C:\Users\Kundan Prasad\source\repos\LetsConnect\LetsConnect.Data\obj\Debug\netcoreapp2.0\LetsConnect.Data.AssemblyInfo.cs
+C:\Users\Kundan Prasad\source\repos\LetsConnect\LetsConnect.Data\obj\Debug\netcoreapp2.0\LetsConnect.Data.csproj.CopyComplete
+C:\Users\Kundan Prasad\source\repos\LetsConnect\LetsConnect.Data\bin\Debug\netcoreapp2.0\LetsConnect.Data.pdb
+C:\Users\Kundan Prasad\source\repos\LetsConnect\LetsConnect.Data\obj\Debug\netcoreapp2.0\LetsConnect.Data.dll
+C:\Users\Kundan Prasad\source\repos\LetsConnect\LetsConnect.Data\obj\Debug\netcoreapp2.0\LetsConnect.Data.pdb
+C:\Practice_Project\LetsConnectWeb\LetsConnect\LetsConnect.Data\bin\Debug\netcoreapp2.0\LetsConnect.Data.deps.json
+C:\Practice_Project\LetsConnectWeb\LetsConnect\LetsConnect.Data\bin\Debug\netcoreapp2.0\LetsConnect.Data.runtimeconfig.json
+C:\Practice_Project\LetsConnectWeb\LetsConnect\LetsConnect.Data\bin\Debug\netcoreapp2.0\LetsConnect.Data.runtimeconfig.dev.json
+C:\Practice_Project\LetsConnectWeb\LetsConnect\LetsConnect.Data\bin\Debug\netcoreapp2.0\LetsConnect.Data.dll
+C:\Practice_Project\LetsConnectWeb\LetsConnect\LetsConnect.Data\bin\Debug\netcoreapp2.0\LetsConnect.Data.pdb
+C:\Practice_Project\LetsConnectWeb\LetsConnect\LetsConnect.Data\bin\Debug\netcoreapp2.0\LetsConnect.Entities.dll
+C:\Practice_Project\LetsConnectWeb\LetsConnect\LetsConnect.Data\bin\Debug\netcoreapp2.0\LetsConnect.Entities.pdb
+C:\Practice_Project\LetsConnectWeb\LetsConnect\LetsConnect.Data\obj\Debug\netcoreapp2.0\LetsConnect.Data.csprojResolveAssemblyReference.cache
+C:\Practice_Project\LetsConnectWeb\LetsConnect\LetsConnect.Data\obj\Debug\netcoreapp2.0\LetsConnect.Data.csproj.CoreCompileInputs.cache
+C:\Practice_Project\LetsConnectWeb\LetsConnect\LetsConnect.Data\obj\Debug\netcoreapp2.0\LetsConnect.Data.AssemblyInfoInputs.cache
+C:\Practice_Project\LetsConnectWeb\LetsConnect\LetsConnect.Data\obj\Debug\netcoreapp2.0\LetsConnect.Data.AssemblyInfo.cs
+C:\Practice_Project\LetsConnectWeb\LetsConnect\LetsConnect.Data\obj\Debug\netcoreapp2.0\LetsConnect.Data.csproj.CopyComplete
+C:\Practice_Project\LetsConnectWeb\LetsConnect\LetsConnect.Data\obj\Debug\netcoreapp2.0\LetsConnect.Data.dll
+C:\Practice_Project\LetsConnectWeb\LetsConnect\LetsConnect.Data\obj\Debug\netcoreapp2.0\LetsConnect.Data.pdb
