@@ -12542,11 +12542,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Practice_Project\\LetsConnectWeb\\LetsConnect\\LetsConnect.Entities\\LetsConnect.Entities.csproj",
+      "projectUniqueName": "C:\\Practice_Project\\LetsConnectApp\\LetsConnect.Entities\\LetsConnect.Entities.csproj",
       "projectName": "LetsConnect.Entities",
-      "projectPath": "C:\\Practice_Project\\LetsConnectWeb\\LetsConnect\\LetsConnect.Entities\\LetsConnect.Entities.csproj",
+      "projectPath": "C:\\Practice_Project\\LetsConnectApp\\LetsConnect.Entities\\LetsConnect.Entities.csproj",
       "packagesPath": "C:\\Users\\Kundan Prasad\\.nuget\\packages\\",
-      "outputPath": "C:\\Practice_Project\\LetsConnectWeb\\LetsConnect\\LetsConnect.Entities\\obj\\",
+      "outputPath": "C:\\Practice_Project\\LetsConnectApp\\LetsConnect.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -60,7 +60,7 @@ namespace LetsConnect.WebApp
             {
                 builder.AllowAnyMethod()
                        .AllowAnyHeader()
-                       .WithOrigins("http://localhost:59150")
+                       .WithOrigins("http://localhost:51364")
                        .AllowCredentials();
             }));
             services.AddSignalR();

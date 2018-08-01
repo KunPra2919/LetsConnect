@@ -6,11 +6,12 @@ export class AuthService {
 
     public isAuthenticated(): boolean {
 
-        const token = localStorage.getItem('token');
-        if (token != undefined && token !="") {
-            return true;
-        }
-        return false;
+        //const token = localStorage.getItem('token');
+        //if (token != undefined && token !="") {
+        //    return true;
+        //}
+       // return false;
+        return true;
         
     }
 

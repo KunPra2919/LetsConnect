@@ -5,9 +5,18 @@ import * as signalR from '@aspnet/signalr';
 import { HomeService } from '../../Service/home.service';
 import { Observable } from 'rxjs/Rx';
 
+declare var $: JQuery;
+
+declare global {
+    interface JQuery {
+        (selector: string): JQuery;
+        dcSocialStream(options: any): JQuery;
+    }
+}
 
 @Component({
     templateUrl: './home.component.html'
+    
 })
 
 export class HomeComponent implements OnInit {
@@ -20,7 +29,8 @@ export class HomeComponent implements OnInit {
     constructor(private _homeService: HomeService) { }
      
     ngOnInit() {
-        
+
+        this.socialWall();
         this.hubConnection = new signalR.HubConnectionBuilder()
             .withUrl("/LetsConnectHub")
             .build(); 
@@ -57,6 +67,62 @@ export class HomeComponent implements OnInit {
                 
             }
         );
+    }
+
+    socialWall() {
+        $('#social-stream').dcSocialStream({
+            feeds: {
+                twitter: {
+                    id: 'designchemical'
+                },
+                rss: {
+                    id: 'http://feeds.feedburner.com/DesignChemical'
+                },
+                stumbleupon: {
+                    id: 'designchemical'
+                },
+                facebook: {
+                    id: '157969574262873,Facebook Timeline/376995711728'
+                },
+                google: {
+                    id: '111470071138275408587',
+                    api_key: 'AIzaSyB1UZNnscjMDjjH-pi_XbnLRld2wAqi3Ek'
+                },
+                delicious: {
+                    id: 'designchemical'
+                },
+                vimeo: {
+                    id: 'brad'
+                },
+                youtube: {
+                    id: 'FilmTrailerZone/UUPPPrnT5080hPMxK1N4QSjA',
+                    thumb: '0'
+                },
+                pinterest: {
+                    id: 'jaffrey,designchemical/design-ideas'
+                },
+                flickr: {
+                    id: ''
+                },
+                lastfm: {
+                    id: 'lastfm'
+                },
+                dribbble: {
+                    id: 'frogandcode'
+                },
+                deviantart: {
+                    id: 'isacg'
+                },
+                tumblr: {
+                    id: 'richters',
+                    thumb: 250
+                }
+            },
+            twitterId: 'designchemical',
+            iconPath: 'images/dcsns-dark/',
+            imagePath: 'images/dcsns-dark/'
+        });
+
     }
 
 }
