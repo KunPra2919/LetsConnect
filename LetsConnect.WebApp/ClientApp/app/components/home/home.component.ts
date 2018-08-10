@@ -85,8 +85,8 @@ export class HomeComponent implements OnInit {
                     id: '157969574262873,Facebook Timeline/376995711728'
                 },
                 google: {
-                    id: '111470071138275408587',
-                    api_key: 'AIzaSyB1UZNnscjMDjjH-pi_XbnLRld2wAqi3Ek'
+                    id: '113657921371822642352',
+                    api_key: 'AIzaSyDFfGr_sX_wRrI832w-pKI1PFvBzfSH0Xc'
                 },
                 delicious: {
                     id: 'designchemical'
@@ -95,7 +95,7 @@ export class HomeComponent implements OnInit {
                     id: 'brad'
                 },
                 youtube: {
-                    id: 'FilmTrailerZone/UUPPPrnT5080hPMxK1N4QSjA',
+                    id: 'PLNqbsyklU9tH802qk4lQ8oNOwmO7CUh2h',
                     thumb: '0'
                 },
                 pinterest: {

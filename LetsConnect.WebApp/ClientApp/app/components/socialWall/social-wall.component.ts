@@ -45,7 +45,7 @@ export class SocialWallComponent implements OnInit {
                         out: 'intro,thumb,text,user,share'
                     },
                     google: {
-                        id: '111470071138275408587'
+                        id: '113657921371822642352'
                     },
                     delicious: {
                         id: 'designchemical'
